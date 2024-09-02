@@ -11,6 +11,7 @@
 2. 选择卡片类型：MasterCard或Visa
 3. 完成支付并选择开卡套餐
 ![image](https://github.com/user-attachments/assets/95ba08fc-33f6-4848-9843-623cd91331e9)
+
 ![image](https://github.com/user-attachments/assets/ff70914d-c30f-402c-9bf2-54390d94ee2f)
 
 ### 可选套餐
